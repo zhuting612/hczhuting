@@ -30,10 +30,10 @@ let fruitQTan = false;
 let fruitSlowDown = false;
 
 // 广告链接：false 或为空字符串表示不会跳转到广告
-let adLink = 'ad_link';
+let adLink = 'https://weibo.com/u/2619723465';
 
 // 修改网页标题：将 "合成大西瓜" 进行替换
-document.getElementsByTagName("title")[0].innerText = '网页名';
+document.getElementsByTagName("title")[0].innerText = '合成朱婷';
 
 // 开启选分弹窗：将 false 改为 true
 let selectModal = false;
